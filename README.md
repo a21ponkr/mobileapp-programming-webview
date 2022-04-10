@@ -18,7 +18,7 @@ WebViewPontus.setWebViewClient(new WebViewClient());
 WebSettings webSettings = WebViewPontus.getSettings();
 webSettings.setJavaScriptEnabled(true);
 ```
-internal webview
-![](internal.jpg)
-external webview
-![](external.jpg)
+internal webview!
+![](internal.png)
+external webview!
+![](external.png)
